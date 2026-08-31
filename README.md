@@ -64,4 +64,4 @@ Adding a new feature? Create a module under `src-tauri/src/features/`, give it a
 
 ## License
 
-Copyright © 2026 Loc Nguyen. All rights reserved.
+GNU General Public License v3.0. See [LICENSE](LICENSE).
